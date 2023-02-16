@@ -1,6 +1,6 @@
 ﻿# Contributors
 <!-- prettier-ignore-start -->
-- [Gurshaan]
+- [Gurshaan](https://github.com/Gurshaan7)
 - [ClameSys](https://github.com/clamesys)
 - [Jonathan Potter](https://github.com/JonathanDPotter)
 - [Patrick Murimi](https://github.com/grand-rick001)
